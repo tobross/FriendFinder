@@ -1,3 +1,4 @@
+var friendsData = 
 [{
     "name":"Tobey",
     "photo":"tobeypic.png",
@@ -13,4 +14,7 @@
         5,
         4
     ]
-}]
+}];
+console.log("required file");
+
+module.exports = friendsData;
